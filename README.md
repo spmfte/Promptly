@@ -17,7 +17,7 @@ To install Promptly, follow these steps:
 
 1. Clone the repository to your local machine.
 
-`git clone https://github.com/your-username/Promptly.git`
+`git clone https://github.com/spmfte/Promptly.git`
 
 2. Install the dependencies listed in the `requirements.txt` file.
 
