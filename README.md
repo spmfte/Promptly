@@ -1,3 +1,5 @@
+# IN DEVELOPMENT / WIP #
+
 # Promptly
 
 Promptly is a custom text editor designed to help engineers and developers create ChatGPT prompts using OpenAI API. The editor includes features such as syntax highlighting, text editing, terminal, console, and IDE, all integrated with the OpenAI API. With Promptly, you can create and test your ChatGPT prompts without leaving the editor, streamlining the prompt writing process and increasing productivity.
